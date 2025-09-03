@@ -1,0 +1,31 @@
+;
+; BIND data file for local loopback interface
+;
+$TTL	604800
+@	IN	SOA	empresa.local. root.empresa.local. (
+			      2		; Serial
+			 604800		; Refresh
+			  86400		; Retry
+			2419200		; Expire
+			 604800 )	; Negative Cache TTL
+
+;Servidor de nombres
+@	IN	NS	maestro.empresa.local.
+@	IN	NS	esclavo.empresa.local.
+
+; Registros PTR (IP -> nombre del host)
+;3	IN	PTR	ns.servicios.com.
+;3	IN	PTR	ns.munoz.com.
+;10	IN	PTR	servidorPrueba1.munoz.com.
+;20	IN	PTR	olave.munoz.com.
+;30	IN	PTR	juan.munoz.com.
+;35	IN	PTR	mail.munoz.com.
+;2	IN	PTR	cliente.servicios.com.
+;
+;
+;REGISTROS INVERSOS DE LA ZONA EMPRESA.LOCAL
+;RR PTRs
+3	IN	PTR	maestro.empresa.local.
+4	IN	PTR	esclavo.empresa.local.
+2	IN	PTR	cliente.empresa.local.
+
