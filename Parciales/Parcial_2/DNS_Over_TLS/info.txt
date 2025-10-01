@@ -1,1 +1,4 @@
 Directorio DNS_Over_TLS para la tarea de DNS sobre TLS
+Direcciones accedidas:
+1. /etc/systemd/resolved.conf
+2. /etc/NetworkManager/conf.d/10-dns-systemd-resolved.conf
