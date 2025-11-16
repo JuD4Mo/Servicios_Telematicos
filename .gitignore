@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.log
+*.pem
+.vagrant/
+.vscode/
+.idea/
+*.swp
+*.swo
+mysql_data/
+docker/volumes/
+
