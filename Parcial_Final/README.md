@@ -22,4 +22,4 @@ En un entorno real esto se mitiga desplegando soluciones en máquinas de mayor c
 
 La observabilidad aporta el ciclo DevOps al proporcionar retroalimentación inmediata en cada fase. En desarrollo, permite detectar problemas de rendimiento antes del despliegue. En operaciones, facilita el diagnóstico rápido de incidentes y, en el negocio, provee datos para la toma de decisiones informadas. Implementar observabilidad con Prometheus, Grafana y otras herramientas como Alertmanager crea un ciclo de mejora continua donde las métricas guían las optimizaciones y las alertas proactivas previenen fallos críticos. También, la observabilidad nos permite cumplir con SLA's que tengamos con clientes, pues es la forma en la que nos damos cuenta cuándo uno de nuestros servicios está degradado y debemos repararlo en la mayor brevedad.
 
-Enlace: [Evidencias | YouTube](https://youtu.be/_dKEcf_5PWU)
+Enlace: [Evidencias | YouTube](https://youtu.be/hAlTfnDM1UI)
