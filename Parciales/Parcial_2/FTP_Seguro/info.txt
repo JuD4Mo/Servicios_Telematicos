@@ -1,3 +1,0 @@
-Directorio FTP_Seguro para la tarea de FTP Seguro
-1. El archivo vsftpd.conf hace parte de la máquina 192.168.50.4
-2. Los archivos de configuración de UFW hacen parte de la máquina 192.168.50.3

@@ -1,4 +1,0 @@
-1. Configuración del ambiente Vagrant + VirtualBox + Ubuntu
-2. Prueba de conectividad entre máquinas cliente y servidor
-3. Box Publicado en Vagrant Cloud
-4. Taller de comandos Linux Realizado

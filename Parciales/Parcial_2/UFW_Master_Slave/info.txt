@@ -1,2 +1,0 @@
-Directorio UFW_Master_Slave para la tarea de UFW Master-Slave
-1. El firewall se configuró dentro de la máquina 192.168.50.2 para redireccionar al dns esclavo 192.168.50.4

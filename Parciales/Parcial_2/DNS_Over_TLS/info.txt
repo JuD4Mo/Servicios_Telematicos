@@ -1,4 +1,0 @@
-Directorio DNS_Over_TLS para la tarea de DNS sobre TLS
-Direcciones accedidas. Se configuró este punto en una máquina adicional 192.168.50.5:
-1. /etc/systemd/resolved.conf
-2. /etc/NetworkManager/conf.d/10-dns-systemd-resolved.conf
